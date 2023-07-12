@@ -9,3 +9,4 @@ Silahkan menuliskan citation pada hasil pekerjaan yang menggunakan dataset dalam
 3 Lorenzo, Joash., Sudar, LZ Sabrina. Sentiment Analysis terhadap Polisi pada Sosial Media Twitter. 2023. Universitas Indonesia
 4. Purnama, A Anton. Sentiment Analisis terhadap Sumur Resapan Jakarta. 2023. Universitas Indonesia
 5. Andana, F Qodri. Sentiment Analysis tentang Upah Buruh. 2023. Universitas Indonesia
+6. Aguinta, J Dhanika., Sinaga, RF Pertiwi. Analisis Sentimen terhadap Brand Samsung. 2022. Universitas Indonesia
