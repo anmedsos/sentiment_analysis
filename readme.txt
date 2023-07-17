@@ -10,3 +10,9 @@ Silahkan menuliskan citation pada hasil pekerjaan yang menggunakan dataset dalam
 4. Purnama, A Anton. Sentiment Analisis terhadap Sumur Resapan Jakarta. 2023. Universitas Indonesia
 5. Andana, F Qodri. Sentiment Analysis tentang Upah Buruh. 2023. Universitas Indonesia
 6. Aguinta, J Dhanika., Sinaga, RF Pertiwi. Analisis Sentimen terhadap Brand Samsung. 2022. Universitas Indonesia
+7. Achsan, B Maulana., Binowo, Kenedi. Analisis Sentimen Publik terhadap Nilai Tukar Rupiah. 2022. Universitas Indonesia.
+8. Arsyad, M Mahdianto., Basri, M Hasan. Sentiment Analysis Pajak Karbon. 2022. Universitas Indonesia.
+9. Retnoningrum, Dwi., Anissayanti, Dea. Analisis Sentimen Uji Emisi. 2022. Universitas Indonesia.
+10. Ellyanti, Lia., Astuti, Yuli. Deteksi Mental Health melalui Media Sosial Twitter. 2022. Universitas Indonesia.
+11. Ashari, Novialdi, Analisis Sentiment Mobil Listrik. 2022. Universitas Indonesia.
+12. Wulandari, Ratih., Ardyani, A Ayu. Analisis Sentimen Galon Sekali Pakai. 2022. Universitas Indonesia.
